@@ -1,0 +1,16 @@
+{
+  "name": "Branding",
+  "description": "Shared MuxCore household product name, marks, and theme tokens.",
+  "version": "0.1.0",
+  "author": "MuxCore",
+  "roles": [
+    "household",
+    "ui"
+  ],
+  "capabilities": [
+    "branding.assets",
+    "branding.theme"
+  ],
+  "contracts": [],
+  "minCoreVersion": "0.5.8"
+}
